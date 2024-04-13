@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<h2>List of Git Commands</h2>
+<ul>
+    <li>git clone</li>
+    <li>git commit</li>
+    <li>git diff</li>
+    <li>git status</li>
+    <li>git pull</li>
+    <li>git remote</li>
+</ul>
